@@ -1,2 +1,2 @@
 # energy-resilience-dbn-model
-A probabilistic model using Dynamic Bayesian Networks (DBN) to evaluate the resilience of electrical and fuel supply chains against extreme climate events.
+This repository contains a model developed to assess energy resilience in the face of climate change. It evaluates the impact of extreme weather events across the entire energy supply chain, covering both electrical and fuel systems. Implemented in Python using the pyAgrum library, the model integrates probabilistic inference through static and dynamic Bayesian networks to calculate failure probabilities and analyze the effectiveness of infrastructure improvements, such as Battery Energy Storage Systems (BESS) and alternative fuel storage.
